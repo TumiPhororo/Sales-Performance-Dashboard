@@ -28,7 +28,7 @@ An interactive sales analytics dashboard built in Power BI, analysing 51,000+ or
 - 📌 Overall profit margin sits at 19% across 51,000+ orders
 
 ## Dashboard Preview
-![Sales Performance Dashboard](dashboard.png)
+![Sales Performance Dashboard](dashboard.jpg)
 
 ## How to View This Project
 The dashboard was built in Power BI Desktop. To view the live report, download the .pbix file from this repository and open it in Power BI Desktop (free to download at powerbi.microsoft.com).
